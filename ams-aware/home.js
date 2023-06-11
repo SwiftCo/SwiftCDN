@@ -1,7 +1,3 @@
-/**
-  Swiper:
-  https://swiperjs.com/
-**/
 const swiper = new Swiper(".swiperCarousel", {
   slidesPerView: 3,
   centeredSlides: true,
